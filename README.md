@@ -6,8 +6,6 @@ English | [简体中文](README.zh.md)
 
 An offensive security skill framework for AI agents (Claude Code, OpenClaw, Hermes Agent) with two independent analytical tracks — **Web/App Security** and **Smart Contract Auditor** — plus a full traditional penetration testing suite. Configurable **Standard / Intense / Maximum** verbosity controls analytical depth from surface scanning to guardrail-breaking critical thinking.
 
-Built on Kali Linux with 269+ CLI tools across 14 categories. Extends the original [kali-pentest](https://github.com/x-glacier/kali-pentest) foundation with autonomous discovery engines, cross-correlation analysis, pattern synthesis, and smart contract fuzzing harness generation.
-
 > [!WARNING]
 > **Authorized Use Only** — This project is intended solely for authorized penetration testing, security research, and educational purposes. Always obtain explicit written permission before testing any target. Unauthorized access to computer systems is illegal. At Maximum verbosity, all analytical guardrails are disabled — use only on targets you own or have explicit written authorization to test.
 
